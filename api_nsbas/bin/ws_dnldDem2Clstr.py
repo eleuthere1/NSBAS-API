@@ -1,7 +1,6 @@
 #!flask/bin/python
 # -*- coding: utf-8 -*-
 # Webservice ws_dnldDem2Clstr , ex WS1
-# Version PHA du 8/3/2017
 #
 # Fonction : 
 # Obtenir sur le cluster de calcul un modèle numérique de terrain (MNT ou DEM) à 30m qui couvre l'ensemble de l'image radar (ensemble des 3 sous-fauchées).
