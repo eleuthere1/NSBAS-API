@@ -1,7 +1,7 @@
 #!flask/bin/python
 # -*- coding: utf-8 -*-
 # Webservice ws_createProcFile , ex WS2
-# Version PHA du 8/3/2017
+# Pas besoin de noter la version ici
 #
 # Fonction : 
 # Créer, dans le dossier de travail, le répertoire de chaque sous-fauchée où le fichier nsbas.proc est généré.
