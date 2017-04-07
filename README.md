@@ -1,8 +1,9 @@
 # NSBAS-API
+Ajout 3 au README dans la branche ws1
 Sources of the NSBAS WPS API
 This API is to give web workflows platforms access to Isterre NSBAS software as a service.
 It is based on the Open Geospatial Consortium WPS standard.
-
+Ajout 5 au README ligne 6 dans la branche pha-fth
 INSTALLATION
 
 This stuf is to install on both a computing cluster and an API hosting machine.
